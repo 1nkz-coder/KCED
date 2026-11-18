@@ -1,0 +1,5 @@
+# Keep LF line endings in the repo on every OS (scripts break with CRLF).
+* text=auto eol=lf
+*.png binary
+*.webp binary
+*.ttf binary
